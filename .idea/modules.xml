@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Checkbox.iml" filepath="$PROJECT_DIR$/Checkbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shangzemin20170509.iml" filepath="$PROJECT_DIR$/Shangzemin20170509.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkboxrec/checkboxrec.iml" filepath="$PROJECT_DIR$/checkboxrec/checkboxrec.iml" />
       <module fileurl="file://$PROJECT_DIR$/checkboxrec/checkboxrec.iml" filepath="$PROJECT_DIR$/checkboxrec/checkboxrec.iml" />
     </modules>
   </component>

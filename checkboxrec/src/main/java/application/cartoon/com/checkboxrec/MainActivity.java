@@ -27,7 +27,7 @@ private RecyclerView recyclerView;
 private Button ok;
     private List<Book> bookList=new ArrayList<>();
     private BookAdapter adapter;
-
+//adapteradapteradapter
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
